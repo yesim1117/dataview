@@ -1,0 +1,44 @@
+{
+  "id": "1726094",
+  "name": "mymall",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1356724",
+      "name": "预警",
+      "font_class": "yujing",
+      "unicode": "e72a",
+      "unicode_decimal": 59178
+    },
+    {
+      "icon_id": "2932853",
+      "name": "书",
+      "font_class": "shu",
+      "unicode": "e809",
+      "unicode_decimal": 59401
+    },
+    {
+      "icon_id": "6756285",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "10262050",
+      "name": "设 置",
+      "font_class": "shezhi",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "15056491",
+      "name": "太阳",
+      "font_class": "taiyang",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}

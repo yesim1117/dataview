@@ -7,8 +7,19 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@jiaminghi/data-view": "^2.9.4",
+    "@types/echarts": "^4.6.4",
+    "amfe-flexible": "^2.2.1",
+    "china.js": "^4.2.0",
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "echarts": "^4.8.0",
+    "element-ui": "^2.13.2",
+    "jelly-switch": "^0.2.3",
+    "jquery": "^3.5.1",
+    "lib-flexible": "^0.3.2",
+    "vue": "^2.6.11",
+    "vue-awesome": "^4.1.0",
+    "vue-router": "^3.3.4"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
